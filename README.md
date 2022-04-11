@@ -3,6 +3,12 @@ This is the first bot (Sniper) that buys tokens when listed on centralized excha
 
 ## Bot setup
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+YOUTUBE INSTRUCTION (https://youtu.be/xF8EgsO0mlA)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 1. Installing the Bot (only for Windows). Download and unzip file and place it in a folder on your computer.
 2. Open the configuration file (**settings_user.txt**) in a text editor like Notepad
 ### Parameters:
@@ -30,6 +36,7 @@ This is the first bot (Sniper) that buys tokens when listed on centralized excha
 
 ## Security questions
 There is a lot of deceit and fake in blockchain. What can we do to trust each other?
+- Our telegram channel is open for messages between clients without moderation. Fraudsters don't do that.
 - Create a new CEX-exchange account
 - Enter by QR code
 - Enable two-factor authentication
