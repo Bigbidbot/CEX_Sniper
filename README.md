@@ -6,7 +6,7 @@ This is the first bot (Sniper) that buys tokens when listed on centralized excha
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 YOUTUBE INSTRUCTION (https://youtu.be/xF8EgsO0mlA)
-
+Telegram Annoncements https://t.me/bigbidbot_Announcements 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 1. Installing the Bot (only for Windows). Download and unzip file and place it in a folder on your computer.
