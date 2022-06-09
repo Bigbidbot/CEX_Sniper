@@ -60,5 +60,5 @@ there are no analogues of our bot
 
 ## How to buy our bot
 When you start the bot, a wallet will be indicated on which you will need to make a payment, after that we ask you to write to us in a telegram to receive a key (license). 
-**Stock. The first 10 licenses are priced at $100.**
+~~**Stock. The first 10 licenses are priced at $100.**~~
 Price 300$ (USDT, BUSD - BEP20) 0x5a8d789C4cf0fa171230cCAd008CbAb942C96EA9 and DM telegram @bigbidbotsupport
