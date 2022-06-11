@@ -1,7 +1,7 @@
 # Cex Sniper Bot 
 This is the first bot (Sniper) that buys tokens when listed on centralized exchanges (as Binance, MEXC, OKEX and Gate.io).
 
-**Stock. The first 10 licenses are priced at $100.**
+~~**Stock. The first 10 licenses are priced at $100.**~~
 ## Bot setup
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
