@@ -11,7 +11,7 @@ Latest version link
 
 YOUTUBE INSTRUCTION (https://youtu.be/xF8EgsO0mlA)
 
-Telegram Annoncements https://t.me/bigbidbot_Announcements 
+Telegram group (https://t.me/bigbidbotmarketinggroup) 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 1. Installing the Bot (only for Windows). Download and unzip file and place it in a folder on your computer.
