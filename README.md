@@ -2,7 +2,7 @@
 This is the first bot (Sniper) that buys tokens when listed on centralized exchanges (as Binance, MEXC, OKEX, HUOBI and Gate.io).
 
 Latest version link
-https://github.com/Bigbidbot/CEX_Sniper/releases
+( https://github.com/Bigbidbot/CEX_Sniper/releases )
 
 ~~**Stock. The first 10 licenses are priced at $100.**~~
 ## Bot setup
@@ -26,7 +26,7 @@ Telegram Annoncements https://t.me/bigbidbot_Announcements
   - "**secret_key**": Specify your license key or if you are testing, specify "1111111111" `Like: c2d2f5gq2f`
   - "**FUNDPASS**": The password that the GATEIO requests. You can enter it manually in windows chrome. But sometimes because of this there are failures in the purchase.
   - "**TYPESTOPLOSS**": _IDO_ or _SECOND_. IDO - the coin has not yet been sold anywhere and strong variations in price are possible. The SECOND - the coin has already been on another platform and we understand its estimated price.
-  - "**STOPLOSSORDERS**": _Boolean_ (True or False). Enable or disable the purchase mode by the trigger system. Those the order is not placed until the price is determined in our order. Study trigger orders
+  - "**STOPLOSSORDERS**": _Boolean_ (True or False). Enable or disable the purchase mode by the trigger system. Those the order is not placed until the price is determined in our order. Study trigger orders ( https://www.huobi.com/support/ru-ru/detail/900001857066 )
   - "**MAXXPRICE**": _Integer_. Is the divisor that divides your "price_buy". It is equal to "6" for the SECOND, or is taken from the settings for IDO. 
 Those if you have specified the maximum price ("price_buy") of 12 dollars and the SECOND type in "TYPESTOPLOSS". That will be placed orders with a purchase price of 100% 90% 80% 70% 60% 50% from 12 dollars i.e. 12, 10.8, 9.6, 8.4, 7.2, 6 dollars price. 
 If this is the IDO mode, then from 12 dollars and "MAXXPRICE":6 the prices will be divided by from 1 ...... to 6 i.e. 12, 6, 4, 3, 2.4, 2 dollars. And in this mode ("STOPLOSSORDERS": "True"), we are trying to sell at a higher price. Your sale price ("price_sell") adds 20% 6 times. Those 100% 120% 140% 160% 180% 200% from "price_sell"
