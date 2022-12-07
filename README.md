@@ -68,6 +68,9 @@ there are no analogues of our bot
 
 
 ## How to buy our bot
-You can test our bot for free. The test key is written to the configuration files. It only trades in MATIK coin.
-When you start the bot, a wallet will be indicated on which you will need to make a payment, after that we ask you to write to us in a telegram to receive a key (license). 
-Price 150$ (USDT, BUSD - BEP20) 0x5a8d789C4cf0fa171230cCAd008CbAb942C96EA9 and DM telegram @bigbidbotsupport
+- **You can test our bot for free**. The test key is written to the configuration files. It only trades in MATIK coin.
+When you start the bot, a wallet will be indicated on which you will need to make a payment, after that we ask you to write to us in a telegram to receive a key (license).
+
+- **You can test our bot for 20$ / 4 days - Full version**. For example, if you want to play with only 1 listing
+
+- **Price 150$** Full version  (USDT, BUSD - BEP20) 0x5a8d789C4cf0fa171230cCAd008CbAb942C96EA9 and DM telegram @bigbidbotsupport
