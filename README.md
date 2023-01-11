@@ -16,12 +16,14 @@ Telegram group (https://t.me/bigbidbotmarketinggroup)
 1. Installing the Bot (only for Windows). Download and unzip file and place it in a folder on your computer.
 2. Open the configuration file (**settings_user.txt**) in a text editor like Notepad
 ### Parameters:
-  - "**exchange_name**": Next, choose an exchange (the name of the exchange is written in capital letters).  At the moment there are only three. `Like: MEXC, BINANCE, GATEIO`
+  - "**exchange_name**": Next, choose an exchange (the name of the exchange is written in capital letters).  At the moment there are only five. `Like: MEXC, BINANCE, GATEIO,  OKEX, HUOBI`
   - "**token_name**": Enter the name of the token (as it is called on the exchange) `Like: GMT`
   - "**accountId_huobi**":  How to get it and fill it out, see our YouTube channel.
   - "**amount_pay**": Enter the amount in USDT - for which the order will be placed   `(Keep in your wallet only the amount that you are willing to spend on this listing)` `Like: 20`
   - "**price_buy**": Set the maximum purchase price of the token `Like: 0.1`
   - "**price_sell**": Set the maximum sale price of the token `Like: 0.5`
+  - "**AUTOPRICE**": _Boolean_ (True or False) after the start of trading, the bot calculates the optimal price and sets its price. The difference in the purchase price and the sale price in the PERCENTPROFIT parameter (for example 20), enabling the mode parameter AUTOPRICE":"True". In this mode, the start time of the auction starts automatically placing orders.
+  - "**PERCENTPROFIT**":  `Like: 20`
   - "**secret_key**": Specify your license key or if you are testing, specify "1111111111" `Like: c2d2f5gq2f`
   - "**FUNDPASS**": The password that the GATEIO requests. You can enter it manually in windows chrome. But sometimes because of this there are failures in the purchase.
   - "**TYPESTOPLOSS**": _IDO_ or _SECOND_. IDO - the coin has not yet been sold anywhere and strong variations in price are possible. The SECOND - the coin has already been on another platform and we understand its estimated price.
