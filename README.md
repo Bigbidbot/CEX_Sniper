@@ -35,13 +35,13 @@ If this is the IDO mode, then from 12 dollars and "MAXXPRICE":6 the prices will 
 3. _A very important parameter_, be sure to synchronize the time in advance in your computer settings
 4. Go into the unzipped folder. In the folder, push "Shift" on your keyboard, then do a right-click mouse. Click on "Open command windows here" or "Open Powershell windows here"
 5. Run the bot in command shell (".\BBB_CEX_Sniper.exe") and wait for the browser to open, then follow the instructions in the window  command shell
-
+**You need to make a fake order with a matic to bypass protection against bots.**
 -	_BROWSER CHROME_: Login in CEX in browser
 -	_COMMAND SHELL_: and press "Enter" in command shell
 -	_BROWSER CHROME_: wait Load MATIC page
 -	_BROWSER CHROME_: CHANGE INTERFACE TO ENGLISH
 -	_COMMAND SHELL_: press ENTER
--	_BROWSER CHROME_: Input price matic 0.5 USDT and amount 20  
+-	_BROWSER CHROME_: Input price matic 0.1 USDT and amount 100  
 -	_COMMAND SHELL_:   Press "ENTER" so that the bot clicks the green button for you and make a test purchase
 -	THEN THE COUNTDOWN WILL GO ON THE COMMAND SHELL  and orders will be placed during the listing
 - _COMMAND SHELL_: Have you finished trading? Close browser? Press "Enter" if YES (after pressing enter the browser will stop working)
