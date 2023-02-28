@@ -16,13 +16,13 @@ Telegram group (https://t.me/bigbidbotmarketinggroup)
 1. Installing the Bot (only for Windows). Download and unzip file and place it in a folder on your computer.
 2. Open the configuration file (**settings_user.txt**) in a text editor like Notepad
 ### Parameters:
-  - "**exchange_name**": Next, choose an exchange (the name of the exchange is written in capital letters).  At the moment there are only five. `Like: MEXC, BINANCE, GATEIO,  OKEX, HUOBI`
+  - "**exchange_name**": Next, choose an exchange (the name of the exchange is written in capital letters).  At the moment there are only five. `Like: MEXC, BINANCE, GATEIO,  OKEX, HUOBI, KUCOIN`
   - "**token_name**": Enter the name of the token (as it is called on the exchange) `Like: GMT`
   - "**accountId_huobi**":  How to get it and fill it out, see our YouTube channel.
   - "**amount_pay**": Enter the amount in USDT - for which the order will be placed   `(Keep in your wallet only the amount that you are willing to spend on this listing)` `Like: 20`
   - "**price_buy**": Set the maximum purchase price of the token `Like: 0.1`
   - "**price_sell**": Set the maximum sale price of the token `Like: 0.5`
-  - "**AUTOPRICE**": _Boolean_ (True or False) after the start of trading, the bot calculates the optimal price and sets its price. The difference in the purchase price and the sale price in the PERCENTPROFIT parameter (for example 20), enabling the mode parameter AUTOPRICE":"True". In this mode, the start time of the auction starts automatically placing orders.
+  - "**AUTOPRICE**": _Boolean_ (True or False) after the start of trading, the bot calculates the optimal price and sets its price. The difference in the purchase price and the sale price in the PERCENTPROFIT parameter (for example 20), enabling the mode parameter AUTOPRICE":"True". In this mode, the start time of the auction starts automatically placing orders. (Dont WORK Binance and KUCOIN)
   - "**PERCENTPROFIT**":  `Like: 20`
   - "**secret_key**": Specify your license key or if you are testing, specify "1111111111" `Like: c2d2f5gq2f`
   - "**FUNDPASS**": The password that the GATEIO requests. You can enter it manually in windows chrome. But sometimes because of this there are failures in the purchase.
@@ -73,6 +73,6 @@ there are no analogues of our bot
 - **You can test our bot for free**. The test key is written to the configuration files. It only trades in MATIK coin.
 When you start the bot, a wallet will be indicated on which you will need to make a payment, after that we ask you to write to us in a telegram to receive a key (license).
 
-- **You can test our bot for 20$ / 4 days - Full version**. For example, if you want to play with only 1 listing
+- **You can test our bot for 50$ / 4 days - Full-slow (0.3 sec/check) version**. For example, if you want to play with only 1 listing
 
-- **Price 150$** Full version  (USDT, BUSD - BEP20) 0x5a8d789C4cf0fa171230cCAd008CbAb942C96EA9 and DM telegram @bigbidbotsupport
+- **Price 250$** Full-fast (0.1 sec/check) version  (USDT, BUSD - BEP20) 0x5a8d789C4cf0fa171230cCAd008CbAb942C96EA9 and DM telegram @bigbidbotsupport
