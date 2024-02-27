@@ -1,5 +1,5 @@
 # Cex Sniper Bot 
-This is the first bot (Sniper) that buys tokens when listed on centralized exchanges (as Binance, MEXC, OKEX, HUOBI and Gate.io).
+This is the first bot (Sniper) that buys tokens when listed on centralized exchanges (as Binance, MEXC (temporary don't work), OKEX, HUOBI and Gate.io).
 
 Latest version link
 ( https://github.com/Bigbidbot/CEX_Sniper/releases )
@@ -16,7 +16,7 @@ Telegram group (https://t.me/bigbidbotmarketinggroup)
 1. Installing the Bot (only for Windows). Download and unzip file and place it in a folder on your computer.
 2. Open the configuration file (**settings_user.txt**) in a text editor like Notepad
 ### Parameters:
-  - "**exchange_name**": Next, choose an exchange (the name of the exchange is written in capital letters).  At the moment there are only five. `Like: MEXC, BINANCE, GATEIO,  OKEX, HUOBI, KUCOIN`
+  - "**exchange_name**": Next, choose an exchange (the name of the exchange is written in capital letters).  At the moment there are only five. `Like: MEXC(temporary don't work), BINANCE, GATEIO,  OKEX, HUOBI, KUCOIN`
   - "**token_name**": Enter the name of the token (as it is called on the exchange) `Like: GMT`
   - "**accountId_huobi**":  How to get it and fill it out, see our YouTube channel.
   - "**amount_pay**": Enter the amount in USDT - for which the order will be placed   `(Keep in your wallet only the amount that you are willing to spend on this listing)` `Like: 20`
@@ -75,4 +75,4 @@ When you start the bot, a wallet will be indicated on which you will need to mak
 
 - **You can test our bot for 50$ / 4 days - Full-slow (0.3 sec/check) version**. For example, if you want to play with only 1 listing
 
-- **Price 250$** Full-fast (0.1 sec/check) version  (USDT, BUSD - BEP20) 0x5a8d789C4cf0fa171230cCAd008CbAb942C96EA9 and DM telegram @bigbidbotsupport
+- **Price 150$** Full-fast (0.1 sec/check) version  (USDT, BUSD - BEP20) 0x5a8d789C4cf0fa171230cCAd008CbAb942C96EA9 and DM telegram @bigbidbotsupport
